@@ -1,0 +1,18 @@
+c:\users\vasil\documents\visual studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.exe.config
+c:\users\vasil\documents\visual studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.exe
+c:\users\vasil\documents\visual studio 2015\Projects\Drawing\Drawing\bin\Debug\Drawing.pdb
+c:\users\vasil\documents\visual studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+c:\users\vasil\documents\visual studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.exe
+c:\users\vasil\documents\visual studio 2015\Projects\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Game\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Game\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Game\Drawing\Drawing\obj\Debug\Drawing.pdb
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Game\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Game\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Game\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+E:\Programs\Repositories\SoftUni\Randoms\Game\Drawing\Drawing\bin\Debug\Drawing.exe.config
+E:\Programs\Repositories\SoftUni\Randoms\Game\Drawing\Drawing\bin\Debug\Drawing.exe
+E:\Programs\Repositories\SoftUni\Randoms\Game\Drawing\Drawing\bin\Debug\Drawing.pdb
+E:\Programs\Repositories\SoftUni\Randoms\Game\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+E:\Programs\Repositories\SoftUni\Randoms\Game\Drawing\Drawing\obj\Debug\Drawing.exe
+E:\Programs\Repositories\SoftUni\Randoms\Game\Drawing\Drawing\obj\Debug\Drawing.pdb

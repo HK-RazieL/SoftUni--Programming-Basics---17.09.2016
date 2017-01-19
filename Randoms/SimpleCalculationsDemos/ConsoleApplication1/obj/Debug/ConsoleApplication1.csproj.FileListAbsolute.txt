@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\Projects\SimpleCalculationsDemos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Visual Studio 2015\Projects\SimpleCalculationsDemos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Visual Studio 2015\Projects\SimpleCalculationsDemos\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Visual Studio 2015\Projects\SimpleCalculationsDemos\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\SimpleCalculationsDemos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Visual Studio 2015\Projects\SimpleCalculationsDemos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Programs\Repositories\SoftUni\SimpleCalculationsDemos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Programs\Repositories\SoftUni\SimpleCalculationsDemos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Programs\Repositories\SoftUni\SimpleCalculationsDemos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

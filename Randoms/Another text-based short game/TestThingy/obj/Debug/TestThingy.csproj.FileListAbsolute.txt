@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\Projects\TestThingy\TestThingy\bin\Debug\TestThingy.exe.config
+D:\Visual Studio 2015\Projects\TestThingy\TestThingy\bin\Debug\TestThingy.exe
+D:\Visual Studio 2015\Projects\TestThingy\TestThingy\bin\Debug\TestThingy.pdb
+D:\Visual Studio 2015\Projects\TestThingy\TestThingy\obj\Debug\TestThingy.exe
+D:\Visual Studio 2015\Projects\TestThingy\TestThingy\obj\Debug\TestThingy.pdb
+D:\Visual Studio 2015\Projects\TestThingy\TestThingy\obj\Debug\TestThingy.csprojResolveAssemblyReference.cache
+E:\Programs\Repositories\SoftUni\TestThingy\TestThingy\bin\Debug\TestThingy.exe.config
+E:\Programs\Repositories\SoftUni\TestThingy\TestThingy\obj\Debug\TestThingy.exe
+E:\Programs\Repositories\SoftUni\TestThingy\TestThingy\obj\Debug\TestThingy.pdb

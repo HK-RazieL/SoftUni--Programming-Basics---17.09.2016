@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\Projects\LogicalStatements\LogicalStatements\bin\Debug\LogicalStatements.exe.config
+D:\Visual Studio 2015\Projects\LogicalStatements\LogicalStatements\bin\Debug\LogicalStatements.exe
+D:\Visual Studio 2015\Projects\LogicalStatements\LogicalStatements\bin\Debug\LogicalStatements.pdb
+D:\Visual Studio 2015\Projects\LogicalStatements\LogicalStatements\obj\Debug\LogicalStatements.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\LogicalStatements\LogicalStatements\obj\Debug\LogicalStatements.exe
+D:\Visual Studio 2015\Projects\LogicalStatements\LogicalStatements\obj\Debug\LogicalStatements.pdb
+E:\Programs\Repositories\SoftUni\LogicalStatements\LogicalStatements\bin\Debug\LogicalStatements.exe.config
+E:\Programs\Repositories\SoftUni\LogicalStatements\LogicalStatements\obj\Debug\LogicalStatements.exe
+E:\Programs\Repositories\SoftUni\LogicalStatements\LogicalStatements\obj\Debug\LogicalStatements.pdb

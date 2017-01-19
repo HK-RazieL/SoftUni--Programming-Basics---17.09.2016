@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\Projects\TestThingy\Part1Testing\bin\Debug\Part1Testing.exe.config
+D:\Visual Studio 2015\Projects\TestThingy\Part1Testing\bin\Debug\Part1Testing.exe
+D:\Visual Studio 2015\Projects\TestThingy\Part1Testing\bin\Debug\Part1Testing.pdb
+D:\Visual Studio 2015\Projects\TestThingy\Part1Testing\obj\Debug\Part1Testing.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\TestThingy\Part1Testing\obj\Debug\Part1Testing.exe
+D:\Visual Studio 2015\Projects\TestThingy\Part1Testing\obj\Debug\Part1Testing.pdb
+E:\Programs\Repositories\SoftUni\TestThingy\Part1Testing\bin\Debug\Part1Testing.exe.config
+E:\Programs\Repositories\SoftUni\TestThingy\Part1Testing\obj\Debug\Part1Testing.exe
+E:\Programs\Repositories\SoftUni\TestThingy\Part1Testing\obj\Debug\Part1Testing.pdb

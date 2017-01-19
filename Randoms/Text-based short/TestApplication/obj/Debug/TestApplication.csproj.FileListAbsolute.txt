@@ -1,0 +1,12 @@
+D:\Visual Studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+D:\Visual Studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+D:\Visual Studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+D:\Visual Studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+D:\Visual Studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+E:\Programs\Repositories\SoftUni\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+E:\Programs\Repositories\SoftUni\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+E:\Programs\Repositories\SoftUni\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+E:\Programs\Repositories\SoftUni\Randoms\Text-based short\TestApplication\bin\Debug\TestApplication.exe.config
+E:\Programs\Repositories\SoftUni\Randoms\Text-based short\TestApplication\obj\Debug\TestApplication.exe
+E:\Programs\Repositories\SoftUni\Randoms\Text-based short\TestApplication\obj\Debug\TestApplication.pdb

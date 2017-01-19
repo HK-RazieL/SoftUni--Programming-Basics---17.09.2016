@@ -1,0 +1,18 @@
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\bin\Debug\BGNtoEUR.exe.config
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\bin\Debug\BGNtoEUR.exe
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\bin\Debug\BGNtoEUR.pdb
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.Form1.resources
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.exe
+D:\Visual Studio 2015\Projects\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.pdb
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\bin\Debug\BGNtoEUR.exe.config
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.exe
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.pdb
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\bin\Debug\BGNtoEUR.exe
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\bin\Debug\BGNtoEUR.pdb
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.csprojResolveAssemblyReference.cache
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.Form1.resources
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.Properties.Resources.resources
+E:\Programs\Repositories\SoftUni\BGNtoEUR\BGNtoEUR\obj\Debug\BGNtoEUR.csproj.GenerateResource.Cache
