@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\RectangleOf10x10Stars\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe.config
+D:\Visual Studio 2015\Projects\RectangleOf10x10Stars\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe
+D:\Visual Studio 2015\Projects\RectangleOf10x10Stars\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.pdb
+D:\Visual Studio 2015\Projects\RectangleOf10x10Stars\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\RectangleOf10x10Stars\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.exe
+D:\Visual Studio 2015\Projects\RectangleOf10x10Stars\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.pdb

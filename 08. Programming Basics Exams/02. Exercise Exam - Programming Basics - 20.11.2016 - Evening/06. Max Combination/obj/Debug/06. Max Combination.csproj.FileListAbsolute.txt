@@ -1,0 +1,6 @@
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\06. Max Combination\bin\Debug\_06.Max_Combination.exe
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\06. Max Combination\obj\Debug\06. Max Combination.csprojResolveAssemblyReference.cache
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\06. Max Combination\obj\Debug\_06.Max_Combination.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\RhombusOfStars\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+D:\Visual Studio 2015\Projects\RhombusOfStars\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+D:\Visual Studio 2015\Projects\RhombusOfStars\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+D:\Visual Studio 2015\Projects\RhombusOfStars\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+D:\Visual Studio 2015\Projects\RhombusOfStars\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

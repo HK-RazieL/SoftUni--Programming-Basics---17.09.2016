@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Visual Studio 2015\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.exe
+D:\Visual Studio 2015\Projects\BonusScore\BonusScore\bin\Debug\BonusScore.pdb
+D:\Visual Studio 2015\Projects\BonusScore\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\BonusScore\BonusScore\obj\Debug\BonusScore.exe
+D:\Visual Studio 2015\Projects\BonusScore\BonusScore\obj\Debug\BonusScore.pdb

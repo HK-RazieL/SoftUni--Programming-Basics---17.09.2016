@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+D:\Visual Studio 2015\Projects\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+D:\Visual Studio 2015\Projects\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+D:\Visual Studio 2015\Projects\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+D:\Visual Studio 2015\Projects\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

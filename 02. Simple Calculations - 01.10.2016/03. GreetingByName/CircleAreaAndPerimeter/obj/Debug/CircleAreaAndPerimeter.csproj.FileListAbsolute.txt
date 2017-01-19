@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\GreetingByName\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+D:\Visual Studio 2015\Projects\GreetingByName\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+D:\Visual Studio 2015\Projects\GreetingByName\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+D:\Visual Studio 2015\Projects\GreetingByName\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+D:\Visual Studio 2015\Projects\GreetingByName\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

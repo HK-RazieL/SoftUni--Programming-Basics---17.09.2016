@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\2dRectangleArea\2dRectangleArea\bin\Debug\2dRectangleArea.exe.config
+D:\Visual Studio 2015\Projects\2dRectangleArea\2dRectangleArea\bin\Debug\2dRectangleArea.exe
+D:\Visual Studio 2015\Projects\2dRectangleArea\2dRectangleArea\bin\Debug\2dRectangleArea.pdb
+D:\Visual Studio 2015\Projects\2dRectangleArea\2dRectangleArea\obj\Debug\2dRectangleArea.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\2dRectangleArea\2dRectangleArea\obj\Debug\2dRectangleArea.exe
+D:\Visual Studio 2015\Projects\2dRectangleArea\2dRectangleArea\obj\Debug\2dRectangleArea.pdb

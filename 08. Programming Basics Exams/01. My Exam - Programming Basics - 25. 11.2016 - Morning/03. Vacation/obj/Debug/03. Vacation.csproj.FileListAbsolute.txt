@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\ConsoleApplication5\03. Vacation\bin\Debug\_03.Vacation.exe.config
+D:\Visual Studio 2015\Projects\ConsoleApplication5\03. Vacation\bin\Debug\_03.Vacation.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\03. Vacation\bin\Debug\_03.Vacation.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\03. Vacation\obj\Debug\_03.Vacation.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\03. Vacation\obj\Debug\_03.Vacation.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\03. Vacation\obj\Debug\03. Vacation.csprojResolveAssemblyReference.cache

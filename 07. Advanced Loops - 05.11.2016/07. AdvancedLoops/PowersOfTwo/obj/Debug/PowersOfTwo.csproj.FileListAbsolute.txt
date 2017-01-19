@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\ComplexLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+D:\Visual Studio 2015\Projects\ComplexLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+D:\Visual Studio 2015\Projects\ComplexLoops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+D:\Visual Studio 2015\Projects\ComplexLoops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+D:\Visual Studio 2015\Projects\ComplexLoops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

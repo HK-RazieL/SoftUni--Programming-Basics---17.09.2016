@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\SquareArea\SquareArea\bin\Debug\SquareArea.exe.config
+D:\Visual Studio 2015\Projects\SquareArea\SquareArea\bin\Debug\SquareArea.exe
+D:\Visual Studio 2015\Projects\SquareArea\SquareArea\bin\Debug\SquareArea.pdb
+D:\Visual Studio 2015\Projects\SquareArea\SquareArea\obj\Debug\SquareArea.exe
+D:\Visual Studio 2015\Projects\SquareArea\SquareArea\obj\Debug\SquareArea.pdb

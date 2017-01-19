@@ -1,0 +1,6 @@
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\05. Rocket\bin\Debug\_05.Rocket.exe.config
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\05. Rocket\bin\Debug\_05.Rocket.exe
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\05. Rocket\bin\Debug\_05.Rocket.pdb
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\05. Rocket\obj\Debug\05. Rocket.csprojResolveAssemblyReference.cache
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\05. Rocket\obj\Debug\_05.Rocket.exe
+C:\Users\Raziel\Documents\Visual Studio 2015\Projects\Test 2\05. Rocket\obj\Debug\_05.Rocket.pdb

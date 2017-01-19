@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\Number0To100ToText\Number0To100ToText\bin\Debug\Number0To100ToText.exe.config
+D:\Visual Studio 2015\Projects\Number0To100ToText\Number0To100ToText\bin\Debug\Number0To100ToText.exe
+D:\Visual Studio 2015\Projects\Number0To100ToText\Number0To100ToText\bin\Debug\Number0To100ToText.pdb
+D:\Visual Studio 2015\Projects\Number0To100ToText\Number0To100ToText\obj\Debug\Number0To100ToText.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Number0To100ToText\Number0To100ToText\obj\Debug\Number0To100ToText.exe
+D:\Visual Studio 2015\Projects\Number0To100ToText\Number0To100ToText\obj\Debug\Number0To100ToText.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\PointOnRectangleBorder\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\Visual Studio 2015\Projects\PointOnRectangleBorder\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\PointOnRectangleBorder\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\Visual Studio 2015\Projects\PointOnRectangleBorder\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\Visual Studio 2015\Projects\PointOnRectangleBorder\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\Visual Studio 2015\Projects\PointOnRectangleBorder\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

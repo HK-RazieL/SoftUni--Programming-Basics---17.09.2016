@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\EqualWords\EqualWords\bin\Debug\EqualWords.exe.config
+D:\Visual Studio 2015\Projects\EqualWords\EqualWords\bin\Debug\EqualWords.exe
+D:\Visual Studio 2015\Projects\EqualWords\EqualWords\bin\Debug\EqualWords.pdb
+D:\Visual Studio 2015\Projects\EqualWords\EqualWords\obj\Debug\EqualWords.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\EqualWords\EqualWords\obj\Debug\EqualWords.exe
+D:\Visual Studio 2015\Projects\EqualWords\EqualWords\obj\Debug\EqualWords.pdb

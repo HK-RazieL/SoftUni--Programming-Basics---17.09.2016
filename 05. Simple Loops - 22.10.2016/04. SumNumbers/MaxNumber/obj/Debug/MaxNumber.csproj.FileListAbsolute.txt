@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\MaxNumber\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\Visual Studio 2015\Projects\MaxNumber\MaxNumber\bin\Debug\MaxNumber.exe
+D:\Visual Studio 2015\Projects\MaxNumber\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\Visual Studio 2015\Projects\MaxNumber\MaxNumber\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\MaxNumber\MaxNumber\obj\Debug\MaxNumber.exe
+D:\Visual Studio 2015\Projects\MaxNumber\MaxNumber\obj\Debug\MaxNumber.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\LeftAndRightSum\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\Visual Studio 2015\Projects\LeftAndRightSum\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\Visual Studio 2015\Projects\LeftAndRightSum\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\Visual Studio 2015\Projects\LeftAndRightSum\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\Visual Studio 2015\Projects\LeftAndRightSum\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

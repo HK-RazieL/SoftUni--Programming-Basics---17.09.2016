@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe.config
+D:\Visual Studio 2015\Projects\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+D:\Visual Studio 2015\Projects\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+D:\Visual Studio 2015\Projects\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+D:\Visual Studio 2015\Projects\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

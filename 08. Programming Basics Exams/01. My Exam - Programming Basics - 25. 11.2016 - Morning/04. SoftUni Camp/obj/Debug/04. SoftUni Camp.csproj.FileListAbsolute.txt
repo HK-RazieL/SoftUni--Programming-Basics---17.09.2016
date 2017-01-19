@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\ConsoleApplication5\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe.config
+D:\Visual Studio 2015\Projects\ConsoleApplication5\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\04. SoftUni Camp\obj\Debug\04. SoftUni Camp.csprojResolveAssemblyReference.cache

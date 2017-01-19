@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+D:\Visual Studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+D:\Visual Studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+D:\Visual Studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+D:\Visual Studio 2015\Projects\RadiansToDegrees\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

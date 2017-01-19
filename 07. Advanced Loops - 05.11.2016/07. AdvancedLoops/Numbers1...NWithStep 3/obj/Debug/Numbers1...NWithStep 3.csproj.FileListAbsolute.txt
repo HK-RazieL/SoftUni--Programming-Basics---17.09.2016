@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\ComplexLoops\Numbers1...NWithStep 3\bin\Debug\Numbers1._._.NWithStep_3.exe.config
+D:\Visual Studio 2015\Projects\ComplexLoops\Numbers1...NWithStep 3\bin\Debug\Numbers1._._.NWithStep_3.exe
+D:\Visual Studio 2015\Projects\ComplexLoops\Numbers1...NWithStep 3\bin\Debug\Numbers1._._.NWithStep_3.pdb
+D:\Visual Studio 2015\Projects\ComplexLoops\Numbers1...NWithStep 3\obj\Debug\Numbers1...NWithStep 3.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\ComplexLoops\Numbers1...NWithStep 3\obj\Debug\Numbers1._._.NWithStep_3.exe
+D:\Visual Studio 2015\Projects\ComplexLoops\Numbers1...NWithStep 3\obj\Debug\Numbers1._._.NWithStep_3.pdb

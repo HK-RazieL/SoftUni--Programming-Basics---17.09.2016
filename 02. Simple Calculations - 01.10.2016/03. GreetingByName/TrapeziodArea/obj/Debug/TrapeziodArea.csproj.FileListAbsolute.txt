@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\GreetingByName\TrapeziodArea\bin\Debug\TrapeziodArea.exe.config
+D:\Visual Studio 2015\Projects\GreetingByName\TrapeziodArea\bin\Debug\TrapeziodArea.exe
+D:\Visual Studio 2015\Projects\GreetingByName\TrapeziodArea\bin\Debug\TrapeziodArea.pdb
+D:\Visual Studio 2015\Projects\GreetingByName\TrapeziodArea\obj\Debug\TrapeziodArea.exe
+D:\Visual Studio 2015\Projects\GreetingByName\TrapeziodArea\obj\Debug\TrapeziodArea.pdb

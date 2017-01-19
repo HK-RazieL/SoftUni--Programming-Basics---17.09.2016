@@ -1,0 +1,11 @@
+D:\Visual Studio 2015\Projects\Sunglasses\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\Visual Studio 2015\Projects\Sunglasses\Sunglasses\bin\Debug\Sunglasses.exe
+D:\Visual Studio 2015\Projects\Sunglasses\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\Visual Studio 2015\Projects\Sunglasses\Sunglasses\obj\Debug\Sunglasses.exe
+D:\Visual Studio 2015\Projects\Sunglasses\Sunglasses\obj\Debug\Sunglasses.pdb
+E:\Programs\Repositories\SoftUni\Sunglasses\Sunglasses\bin\Debug\Sunglasses.exe.config
+E:\Programs\Repositories\SoftUni\Sunglasses\Sunglasses\obj\Debug\Sunglasses.exe
+E:\Programs\Repositories\SoftUni\Sunglasses\Sunglasses\obj\Debug\Sunglasses.pdb
+E:\Programs\Repositories\SoftUni\Sunglasses\Sunglasses\bin\Debug\Sunglasses.exe
+E:\Programs\Repositories\SoftUni\Sunglasses\Sunglasses\bin\Debug\Sunglasses.pdb
+E:\Programs\Repositories\SoftUni\Sunglasses\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache

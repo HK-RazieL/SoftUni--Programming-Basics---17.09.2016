@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\Time+15Minutes\Time+15Minutes\bin\Debug\Time+15Minutes.exe.config
+D:\Visual Studio 2015\Projects\Time+15Minutes\Time+15Minutes\bin\Debug\Time+15Minutes.exe
+D:\Visual Studio 2015\Projects\Time+15Minutes\Time+15Minutes\bin\Debug\Time+15Minutes.pdb
+D:\Visual Studio 2015\Projects\Time+15Minutes\Time+15Minutes\obj\Debug\Time+15Minutes.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Time+15Minutes\Time+15Minutes\obj\Debug\Time+15Minutes.exe
+D:\Visual Studio 2015\Projects\Time+15Minutes\Time+15Minutes\obj\Debug\Time+15Minutes.pdb

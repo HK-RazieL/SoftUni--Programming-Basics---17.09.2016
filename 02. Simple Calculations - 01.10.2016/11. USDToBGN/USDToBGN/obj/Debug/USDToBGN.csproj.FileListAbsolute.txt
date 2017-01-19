@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\USDToBGN\USDToBGN\bin\Debug\USDToBGN.exe.config
+D:\Visual Studio 2015\Projects\USDToBGN\USDToBGN\bin\Debug\USDToBGN.exe
+D:\Visual Studio 2015\Projects\USDToBGN\USDToBGN\bin\Debug\USDToBGN.pdb
+D:\Visual Studio 2015\Projects\USDToBGN\USDToBGN\obj\Debug\USDToBGN.exe
+D:\Visual Studio 2015\Projects\USDToBGN\USDToBGN\obj\Debug\USDToBGN.pdb

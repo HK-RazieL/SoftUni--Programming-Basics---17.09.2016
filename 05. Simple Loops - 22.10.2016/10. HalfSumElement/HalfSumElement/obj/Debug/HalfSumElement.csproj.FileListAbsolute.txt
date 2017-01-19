@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\HalfSumElement\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\Visual Studio 2015\Projects\HalfSumElement\HalfSumElement\bin\Debug\HalfSumElement.exe
+D:\Visual Studio 2015\Projects\HalfSumElement\HalfSumElement\bin\Debug\HalfSumElement.pdb
+D:\Visual Studio 2015\Projects\HalfSumElement\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\HalfSumElement\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\Visual Studio 2015\Projects\HalfSumElement\HalfSumElement\obj\Debug\HalfSumElement.pdb

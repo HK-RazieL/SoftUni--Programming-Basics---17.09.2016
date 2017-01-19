@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\ConsoleApplication5\05. Fox\bin\Debug\_05.Fox.exe.config
+D:\Visual Studio 2015\Projects\ConsoleApplication5\05. Fox\bin\Debug\_05.Fox.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\05. Fox\bin\Debug\_05.Fox.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\05. Fox\obj\Debug\_05.Fox.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\05. Fox\obj\Debug\_05.Fox.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\05. Fox\obj\Debug\05. Fox.csprojResolveAssemblyReference.cache

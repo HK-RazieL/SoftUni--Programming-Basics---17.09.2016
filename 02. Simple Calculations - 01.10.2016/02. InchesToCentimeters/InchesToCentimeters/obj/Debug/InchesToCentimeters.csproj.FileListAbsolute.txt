@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+D:\Visual Studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+D:\Visual Studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+D:\Visual Studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+D:\Visual Studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

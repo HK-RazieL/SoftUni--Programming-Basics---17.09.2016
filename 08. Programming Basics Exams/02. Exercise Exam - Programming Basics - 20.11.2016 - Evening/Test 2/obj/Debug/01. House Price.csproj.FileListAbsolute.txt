@@ -1,0 +1,6 @@
+c:\users\raziel\documents\visual studio 2015\Projects\Test 2\Test 2\bin\Debug\Test 2.exe.config
+c:\users\raziel\documents\visual studio 2015\Projects\Test 2\Test 2\bin\Debug\Test 2.exe
+c:\users\raziel\documents\visual studio 2015\Projects\Test 2\Test 2\bin\Debug\Test 2.pdb
+c:\users\raziel\documents\visual studio 2015\Projects\Test 2\Test 2\obj\Debug\01. House Price.csprojResolveAssemblyReference.cache
+c:\users\raziel\documents\visual studio 2015\Projects\Test 2\Test 2\obj\Debug\Test 2.exe
+c:\users\raziel\documents\visual studio 2015\Projects\Test 2\Test 2\obj\Debug\Test 2.pdb

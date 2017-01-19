@@ -1,0 +1,11 @@
+D:\Visual Studio 2015\Projects\SquareFrame\SquareFrame\bin\Debug\SquareFrame.exe.config
+D:\Visual Studio 2015\Projects\SquareFrame\SquareFrame\bin\Debug\SquareFrame.exe
+D:\Visual Studio 2015\Projects\SquareFrame\SquareFrame\bin\Debug\SquareFrame.pdb
+D:\Visual Studio 2015\Projects\SquareFrame\SquareFrame\obj\Debug\SquareFrame.exe
+D:\Visual Studio 2015\Projects\SquareFrame\SquareFrame\obj\Debug\SquareFrame.pdb
+E:\Programs\Repositories\SoftUni\06. Drawing Figures with Loops - 29.10.2016\05. SquareFrame\SquareFrame\bin\Debug\SquareFrame.exe.config
+E:\Programs\Repositories\SoftUni\06. Drawing Figures with Loops - 29.10.2016\05. SquareFrame\SquareFrame\obj\Debug\SquareFrame.exe
+E:\Programs\Repositories\SoftUni\06. Drawing Figures with Loops - 29.10.2016\05. SquareFrame\SquareFrame\obj\Debug\SquareFrame.pdb
+E:\Programs\Repositories\SoftUni\06. Drawing Figures with Loops - 29.10.2016\05. SquareFrame\SquareFrame\bin\Debug\SquareFrame.exe
+E:\Programs\Repositories\SoftUni\06. Drawing Figures with Loops - 29.10.2016\05. SquareFrame\SquareFrame\bin\Debug\SquareFrame.pdb
+E:\Programs\Repositories\SoftUni\06. Drawing Figures with Loops - 29.10.2016\05. SquareFrame\SquareFrame\obj\Debug\SquareFrame.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\VowelsSum\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\Visual Studio 2015\Projects\VowelsSum\VowelsSum\bin\Debug\VowelsSum.exe
+D:\Visual Studio 2015\Projects\VowelsSum\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\Visual Studio 2015\Projects\VowelsSum\VowelsSum\obj\Debug\VowelsSum.exe
+D:\Visual Studio 2015\Projects\VowelsSum\VowelsSum\obj\Debug\VowelsSum.pdb

@@ -1,0 +1,1 @@
+D:\Visual Studio 2015\Projects\PointInRectangle\PointInRectangle\bin\Debug\PointInRectangle.exe.config

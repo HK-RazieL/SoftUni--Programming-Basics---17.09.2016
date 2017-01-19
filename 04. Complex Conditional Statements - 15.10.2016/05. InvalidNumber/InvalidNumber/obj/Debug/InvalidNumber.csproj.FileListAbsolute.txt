@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\InvalidNumber\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+D:\Visual Studio 2015\Projects\InvalidNumber\InvalidNumber\bin\Debug\InvalidNumber.exe
+D:\Visual Studio 2015\Projects\InvalidNumber\InvalidNumber\bin\Debug\InvalidNumber.pdb
+D:\Visual Studio 2015\Projects\InvalidNumber\InvalidNumber\obj\Debug\InvalidNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\InvalidNumber\InvalidNumber\obj\Debug\InvalidNumber.exe
+D:\Visual Studio 2015\Projects\InvalidNumber\InvalidNumber\obj\Debug\InvalidNumber.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\SumSeconds\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\Visual Studio 2015\Projects\SumSeconds\SumSeconds\bin\Debug\SumSeconds.exe
+D:\Visual Studio 2015\Projects\SumSeconds\SumSeconds\bin\Debug\SumSeconds.pdb
+D:\Visual Studio 2015\Projects\SumSeconds\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\SumSeconds\SumSeconds\obj\Debug\SumSeconds.exe
+D:\Visual Studio 2015\Projects\SumSeconds\SumSeconds\obj\Debug\SumSeconds.pdb

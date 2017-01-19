@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\TradeComissions\TradeComissions\bin\Debug\TradeComissions.exe.config
+D:\Visual Studio 2015\Projects\TradeComissions\TradeComissions\bin\Debug\TradeComissions.exe
+D:\Visual Studio 2015\Projects\TradeComissions\TradeComissions\bin\Debug\TradeComissions.pdb
+D:\Visual Studio 2015\Projects\TradeComissions\TradeComissions\obj\Debug\TradeComissions.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\TradeComissions\TradeComissions\obj\Debug\TradeComissions.exe
+D:\Visual Studio 2015\Projects\TradeComissions\TradeComissions\obj\Debug\TradeComissions.pdb

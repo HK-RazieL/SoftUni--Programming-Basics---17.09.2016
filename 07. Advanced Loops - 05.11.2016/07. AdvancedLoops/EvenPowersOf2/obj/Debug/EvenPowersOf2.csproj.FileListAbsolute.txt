@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\ComplexLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
+D:\Visual Studio 2015\Projects\ComplexLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
+D:\Visual Studio 2015\Projects\ComplexLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
+D:\Visual Studio 2015\Projects\ComplexLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
+D:\Visual Studio 2015\Projects\ComplexLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

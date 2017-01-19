@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\TriangleOfDollars\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\Visual Studio 2015\Projects\TriangleOfDollars\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\Visual Studio 2015\Projects\TriangleOfDollars\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\Visual Studio 2015\Projects\TriangleOfDollars\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\Visual Studio 2015\Projects\TriangleOfDollars\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

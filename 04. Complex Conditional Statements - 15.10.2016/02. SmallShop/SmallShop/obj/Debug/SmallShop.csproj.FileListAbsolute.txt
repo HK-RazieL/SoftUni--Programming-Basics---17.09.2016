@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\SmallShop\SmallShop\bin\Debug\SmallShop.exe.config
+D:\Visual Studio 2015\Projects\SmallShop\SmallShop\bin\Debug\SmallShop.exe
+D:\Visual Studio 2015\Projects\SmallShop\SmallShop\bin\Debug\SmallShop.pdb
+D:\Visual Studio 2015\Projects\SmallShop\SmallShop\obj\Debug\SmallShop.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\SmallShop\SmallShop\obj\Debug\SmallShop.exe
+D:\Visual Studio 2015\Projects\SmallShop\SmallShop\obj\Debug\SmallShop.pdb

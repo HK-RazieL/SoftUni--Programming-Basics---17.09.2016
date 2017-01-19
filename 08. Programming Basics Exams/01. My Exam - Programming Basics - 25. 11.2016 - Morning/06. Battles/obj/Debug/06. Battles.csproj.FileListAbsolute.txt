@@ -1,0 +1,6 @@
+D:\Visual Studio 2015\Projects\ConsoleApplication5\06. Battles\bin\Debug\_06.Battles.exe.config
+D:\Visual Studio 2015\Projects\ConsoleApplication5\06. Battles\bin\Debug\_06.Battles.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\06. Battles\bin\Debug\_06.Battles.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\06. Battles\obj\Debug\_06.Battles.exe
+D:\Visual Studio 2015\Projects\ConsoleApplication5\06. Battles\obj\Debug\_06.Battles.pdb
+D:\Visual Studio 2015\Projects\ConsoleApplication5\06. Battles\obj\Debug\06. Battles.csprojResolveAssemblyReference.cache
